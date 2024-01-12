@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
             dangerouslySetInnerHTML={{
               __html: `
                 window.difyChatbotConfig = { 
-                  token: 'ygU0KDNon2BJSCiK'
+                  token: 'n8i8DtjnEkU9VfOR'
                 };
               `,
             }}
@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
           <script
             defer
             src="https://udify.app/embed.min.js"
-            id="ygU0KDNon2BJSCiK"
+            id="n8i8DtjnEkU9VfOR"
           ></script>
           </body>
     </html>
